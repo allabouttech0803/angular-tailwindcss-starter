@@ -1,6 +1,6 @@
 {
-  "name": "angular-tailwindcss",
-  "version": "0.0.0",
+  "name": "angular-tailwindcss-starter",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -22,7 +22,6 @@
     "autoprefixer": "^10.2.4",
     "postcss": "^8.2.6",
     "rxjs": "~6.6.0",
-    "tailwindcss": "^2.0.3",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
   },
@@ -41,6 +40,7 @@
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "^1.5.0",
     "protractor": "~7.0.0",
+    "tailwindcss": "^2.0.3",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~4.1.2"
